@@ -1,6 +1,6 @@
 {
   "id": "contratacion-publica",
-  "nombre": "Contratación pública, cooperación internacional y fortalecimiento institucional",
+  "nombre": "administración pública y gestión",
   "activo": true,
   "descripcion": "Perfil anónimo. No contiene nombre, contacto, entidades donde se ha trabajado ni datos sensibles.",
   "perfil": {
@@ -10,7 +10,7 @@
       "Especialización en Contratación Estatal",
       "Maestría en Administración Pública (en curso)"
     ],
-    "experiencia_profesional_anios": 5,
+    "experiencia_profesional_anios": 5 o menos,
     "idiomas_ofertas": [
       "es",
       "en"
@@ -197,7 +197,7 @@
       "Cundinamarca",
       "Boyacá",
       "Tunja"
-    ],
+   "Bogotá", "Bogota" ],
     "solo_ciudades_listadas": true,
     "modalidades_aceptadas": [
       "presencial",
@@ -211,6 +211,6 @@
     "puntos_por_rol_en_texto": 4,
     "puntos_bonus_ciudad_preferida": 2,
     "puntaje_crudo_para_100": 24,
-    "afinidad_minima_para_guardar": 30
+    "afinidad_minima_para_guardar": 8
   }
 }
