@@ -1,7 +1,432 @@
 {
-  "actualizado": null,
-  "perfiles": [{"id": "contratacion-publica", "nombre": "Contratación pública, cooperación internacional y fortalecimiento institucional"}],
-  "estado_fuentes": {},
-  "total": 0,
-  "ofertas": []
+  "actualizado": "2026-11-14T02:57:38+00:00",
+  "perfiles": [
+    {
+      "id": "contratacion-publica",
+      "nombre": "Administración Pública y Gestión"
+    }
+  ],
+  "estado_fuentes": {
+    "reliefweb": {
+      "ok": false,
+      "fecha": "2026-11-14T02:57:37+00:00",
+      "obtenidas": 0,
+      "relevantes": 0,
+      "nuevas": 0,
+      "omitida": true,
+      "mensaje": "Falta el secreto RELIEFWEB_APPNAME (appname aprobado por ReliefWeb)."
+    },
+    "paginas_oficiales": {
+      "ok": true,
+      "fecha": "2026-11-14T02:57:37+00:00",
+      "obtenidas": 18,
+      "relevantes": 17,
+      "nuevas": 17
+    },
+    "rss": {
+      "ok": true,
+      "fecha": "2026-11-14T02:57:38+00:00",
+      "obtenidas": 0,
+      "relevantes": 0,
+      "nuevas": 0
+    }
+  },
+  "total": 17,
+  "ofertas": [
+    {
+      "id": "f254a8e4ac1b7b1b",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Cursos virtuales gratis",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/educacion/2026-11/inscripcion-cursos-cortos-gratis-con-el-sena-traves-de-zajuna-bogota",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Los cursos cortos y gratis del SENA tienen duración desde 20 a 120 horas, dependiendo de la complejidad de la habilidad.. Inscripción cursos cortos gratis con el SENA a través de Zajuna Bogotá | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Mi Ciudad Educación 2026 11 Cursos cortos gratis con el SENA a través de Zajuna ¡Conoce la oferta! Cursos cortos gratis con el SENA a través de Zajuna ¡Conoce la oferta! Cursos cortos gratis con el SENA a través de Zajuna ¡Conoce la oferta!…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 12,
+          "rol": null,
+          "coincidencias": [
+            "gestión documental"
+          ],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "426d60a28da11761",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Plan éxodo de movilidad",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/exodo-y-retorno-en-bogota-del-13-14-15-y-16-de-noviembre-de-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Cerca de 150 personas, entre Agentes Civiles de Tránsito, Grupo Guía y Policía de Tránsito, estarán desplegados en los principales corredores de Bogotá.. Éxodo y retorno en Bogotá del 13 14 15 y 16 de noviembre de 2026 | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Mi Ciudad Movilidad 2026 11 Éxodo y retorno: Bogotá, lista para ingreso y salida de más de dos millones de vehículos este puente festivo Éxodo y retorno: Bogotá, lista para ingreso y salida de más de dos millones de…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "0a519ed4912c598f",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Resultados de la Lotería de Bogotá",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/hacienda/2026-11/resultados-del-sorteo-loteria-de-bogota-jueves-12-de-noviembre-de-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Los premios están distribuidos en un gran premio mayor, pagos por aproximaciones y más premios millonarios que te permitirán hacer realidad tus sueños.. Resultados del sorteo Lotería de Bogotá jueves 12 de noviembre de 2026 | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Mi Ciudad Hacienda 2026 11 ¿Jugaste la Lotería de Bogotá? Revisa aquí los resultados del sorteo del jueves 12 de noviembre de 2026 ¿Jugaste la Lotería de Bogotá? Revisa aquí los resultados del sorteo del jueves 12 de…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "d4fc01b5ac96bda3",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "¡Trabajo sí hay! Este 12 y 13 de noviembre ferias de empleo en Bogotá con más de 1.200…",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-en-bogota-mas-de-1200-vacantes-en-tres-ferias-empleo",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Las jornadas se realizarán en las localidades de Santa Fe, Fontibón y Suba. Conoce los horarios y perfiles y alista tu hoja de vida.. Trabajo sí hay en Bogotá más de 1.200 vacantes en tres ferias empleo | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Mi Ciudad Desarrollo Económico 2026 11 ¡Trabajo sí hay! Este 12 y 13 de noviembre ferias de empleo en Bogotá con más de 1.200 oportunidades laborales ¡Trabajo sí hay! Este 12 y 13 de noviembre ferias de empleo en Bogotá con más de 1.200…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 12,
+          "rol": null,
+          "coincidencias": [
+            "sin experiencia"
+          ],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "25bba36b06c9d4ae",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Más de 500 oportunidades laborales para población migrante: participa en feria de empleo…",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-en-bogota-500-oportunidades-laborales-para-migrantes",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "La jornada se realizará este jueves 12 de noviembre de 2026 en la Plaza de Mercado Las Cruces, de 8:00 a. m. a 2:00 p. m.. Trabajo sí hay en Bogotá 500 oportunidades laborales para migrantes | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Mi Ciudad Desarrollo Económico 2026 11 Más de 500 oportunidades laborales para población migrante: participa en feria de empleo en Bogotá Más de 500 oportunidades laborales para población migrante: participa en feria de empleo en Bogotá Más de 500…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "2452ea9c93d713f0",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Trabajo sí hay en Bogotá: son 2.946 vacantes con postulación virtual y presencial hasta…",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-bogota-hay-2946-vacantes-laborales-hasta-14-de-noviembre-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Hay 954 cargos laborales disponibles dirigidos a personas con educación básica primaria, básica secundaria o bachillerato. ¡Revisa detalles y postúlate!. Trabajo Bogotá hay 2946 vacantes laborales hasta 14 de noviembre 2026 | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Mi Ciudad Desarrollo Económico 2026 11 Trabajo sí hay en Bogotá: son 2.946 vacantes con postulación virtual y presencial hasta el sábado 14 de noviembre Trabajo sí hay en Bogotá: son 2.946 vacantes con postulación…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "2b244a68833c4b70",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Trabajo sí hay en Bogotá, la Unidad Móvil de Empleo llega a Suba, acércate con tu hoja de…",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-en-bogota-unidad-movil-de-empleo-en-suba",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Asiste con tu hoja de vida y tu documento de identidad al barrio La Gaitana hasta el 14 de noviembre de 2026 en los horarios establecidos.. Trabajo sí hay en Bogotá Unidad Móvil de Empleo en Suba | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Mi Ciudad Desarrollo Económico 2026 11 Trabajo sí hay en Bogotá, la Unidad Móvil de Empleo llega a Suba, acércate con tu hoja de vida y participa Trabajo sí hay en Bogotá, la Unidad Móvil de Empleo llega a Suba, acércate con tu hoja de vida y…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "6b07beb0cc70b954",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Trabajo sí hay: Aguas de Bogotá abre 100 vacantes de empleo para operarios y personal de…",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/habitat/2026-11/trabajo-si-hay-aguas-de-bogota-convocatoria-el-9-de-noviembre",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Las personas interesadas podrán conectarse este lunes 9 de noviembre a las 10:00 a. m. para conocer más detalles sobre esta convocatoria laboral.. Trabajo sí hay Aguas de Bogotá convocatoria el 9 de noviembre | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Mi Ciudad Hábitat 2026 11 Trabajo sí hay: Aguas de Bogotá abre 100 vacantes de empleo para operarios y personal de zonas verdes Trabajo sí hay: Aguas de Bogotá abre 100 vacantes de empleo para operarios y personal de zonas verdes…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "99530dbf8dfbc12f",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Trabajo sí hay en Bogotá: más de 200 vacantes para personas con básica primaria en…",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-en-bogota-hay-vacantes-para-trabajar-con-el-metro",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "La jornada de empleo será este 5 de noviembre de 2026 con oportunidades laborales con CHEC, Metro Línea 1 y Job&amp;Talent.. Trabajo sí hay en Bogotá hay vacantes para trabajar con el Metro | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Mi Ciudad Desarrollo Económico 2026 11 Trabajo sí hay en Bogotá: más de 200 vacantes para personas con básica primaria en adelante en Ciudad Bolívar Trabajo sí hay en Bogotá: más de 200 vacantes para personas con básica primaria en adelante en Ciudad…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "8c55a32c2253a1bb",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Trabajo sí hay en Bogotá, la Unidad Móvil de Empleo llega a Engativá, acércate con tu…",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-en-bogota-unidad-movil-de-empleo-en-engativa",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Asiste con tu hoja de vida y tu documento de identidad al Centro Comercial Titán Plaza hasta el 7 de noviembre de 2026 en los horarios establecidos.. Trabajo sí hay en Bogotá Unidad Móvil de Empleo en Engativá | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Mi Ciudad Desarrollo Económico 2026 11 Trabajo sí hay en Bogotá, la Unidad Móvil de Empleo llega a Engativá, acércate con tu hoja de vida y participa Trabajo sí hay en Bogotá, la Unidad Móvil de Empleo llega a Engativá, acércate…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "76b74035c19226ad",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "¡Trabajo si hay en Bogotá! 100 vacantes laborales para bachilleres, técnicos y tecnólogos",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-en-bogota-100-vacantes-laborales-para-bachilleres",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "f1a7a86ac6c05b1f",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Bogotá inicia noviembre con más de 3.000 oportunidades de empleo: conoce dónde postularte",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-en-bogota-mas-de-3000-vacantes-3-al-7-de-noviembre",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "a5c28973b9d1eaf8",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "El SENA abre la tercera convocatoria de formación virtual ¡Inscríbete es gratis!",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/servicios/oportunidades-y-apoyos/el-sena-abre-la-tercera-convocatoria-de-formacion-virtual-inscribete-es-gratis",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "El SENA abre la tercera convocatoria de formación virtual ¡Inscríbete | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Servicios Oportunidades, apoyos, estímulos y empleos de la Alcaldía de Bogotá El SENA abre la tercera convocatoria de formación virtual ¡Inscríbete es gratis! El SENA abre la tercera convocatoria de formación virtual ¡Inscríbete es gratis! El SENA abre la tercera convocatoria de formación virtual ¡Inscríbete es gratis! 22 Julio Miércoles Al 30 Diciembre Miércoles…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "6f1505b869d997ee",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "La Unidad Móvil de Empleo estará en Suba desde el 9 al 14 de noviembre",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/servicios/oportunidades-y-apoyos/la-unidad-movil-de-empleo-estara-en-suba-desde-el-9-al-14-de-noviembre",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "La Unidad Móvil de Empleo estará en Suba desde el 9 al 14 de noviembre | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Servicios Oportunidades, apoyos, estímulos y empleos de la Alcaldía de Bogotá La Unidad Móvil de Empleo estará en Suba desde el 9 al 14 de noviembre La Unidad Móvil de Empleo estará en Suba desde el 9 al 14 de noviembre La Unidad Móvil de Empleo estará en Suba desde el 9 al 14 de noviembre 09 Noviembre Lunes Al 14 Noviembre Sábado Publicado por: Juan Manuel Cruz…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "d07995f07fd18fb7",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "El Metro de Bogotá continúa abriendo oportunidades de empleo",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/el-metro-de-bogota-continua-abriendo-oportunidades-de-empleo-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "La Línea 1 del Metro de Bogotá participó en una feria de empleo en la localidad de Antonio Nariño, acercando oportunidades laborales a la ciudadanía.. El Metro de Bogotá continúa abriendo oportunidades de empleo 2026 | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Mi Ciudad Movilidad 2026 11 El Metro de Bogotá continúa abriendo oportunidades de empleo El Metro de Bogotá continúa abriendo oportunidades de empleo El Metro de Bogotá continúa abriendo oportunidades de empleo 12·NOV·2026…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "0b37d87e06c2e101",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "Bogotá abre 3.000 becas para estudiar en 39 universidades privadas ¡Jóvenes a la E-6!",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/educacion/2026-11/convocatoria-becas-para-jovenes-la-e-universidades-privadas-bogota",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Del 12 al 18 de noviembre de 2026 estarán abiertas las inscripciones para bachilleres egresados de colegios de Bogotá.. Convocatoria becas para Jóvenes a la E universidades privadas Bogotá | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Mi Ciudad Educación 2026 11 Bogotá abre 3.000 becas para estudiar en 39 universidades privadas ¡Jóvenes a la E-6! Bogotá abre 3.000 becas para estudiar en 39 universidades privadas ¡Jóvenes a la E-6! Bogotá abre 3.000 becas para estudiar en 39…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    },
+    {
+      "id": "43cb87a59ad3886f",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "¿Cómo postularse en la convocatoria Jóvenes a la E-6 para estudiantes de instituciones...",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/educacion/2026-11/como-postularse-en-la-convocatoria-jovenes-la-e-6-en-bogota-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Las personas interesadas en participar en la convocatoria podrán hacerlo hasta el viernes 13 de noviembre de 2026.. Cómo postularse en la convocatoria Jóvenes a la E-6 en Bogotá 2026 | Bogota.gov.co 13 Noviembre Clima en Bogotá Becas de Jóvenes a la E Cursos virtuales gratis Plan éxodo de movilidad Resultados de la Lotería de Bogotá Inicio Mi Ciudad Educación 2026 11 ¿Cómo postularse en la convocatoria Jóvenes a la E-6 para estudiantes de instituciones públicas? Conoce paso a paso ¿Cómo postularse en la convocatoria Jóvenes a la E-6 para estudiantes de instituciones públicas? Conoce paso a…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-14T02:57:38+00:00"
+    }
+  ]
 }
