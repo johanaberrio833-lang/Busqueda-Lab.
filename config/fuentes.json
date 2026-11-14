@@ -1,0 +1,128 @@
+{
+  "general": {
+    "dias_retencion": 60,
+    "max_ofertas": 1500,
+    "dominios_oficiales": [
+      "gov.co",
+      "un.org", "unmissions.org", "reliefweb.int", "undp.org", "unicef.org", "unfpa.org",
+      "unwomen.org", "unhcr.org", "iom.int", "wfp.org", "fao.org", "ilo.org", "paho.org",
+      "who.int", "unops.org", "unv.org", "unodc.org", "ohchr.org", "unesco.org",
+      "iadb.org", "worldbank.org", "caf.com", "oas.org", "oei.int",
+      "giz.de", "aecid.es", "europa.eu"
+    ],
+    "nota": "Solo se conservan ofertas cuyo enlace pertenece a uno de estos dominios (o a un subdominio)."
+  },
+  "fuentes": {
+    "reliefweb": {
+      "activa": true,
+      "descripcion": "Servicio oficial de OCHA (ONU): vacantes de agencias ONU, cooperación y organizaciones sociales en Colombia.",
+      "pais": "Colombia",
+      "limite_por_pagina": 100,
+      "maximo_total": 300,
+      "variable_appname": "RELIEFWEB_APPNAME"
+    },
+    "paginas_oficiales": {
+      "activa": true,
+      "descripcion": "Revisa páginas de convocatorias de entidades públicas y organismos internacionales.",
+      "max_detalles_por_pagina": 10,
+      "paginas": [
+        {
+          "nombre": "Alcaldía de Bogotá – Ofertas de empleo",
+          "organizacion": "Alcaldía Mayor de Bogotá",
+          "url": "https://bogota.gov.co/en/taxonomy/term/117",
+          "ubicacion": "Bogotá, Colombia",
+          "patron_url": "/20\\d\\d-\\d\\d/",
+          "todas_las_entradas": true,
+          "activa": true,
+          "verificada": true
+        },
+        {
+          "nombre": "Alcaldía de Bogotá – Portal de oportunidades",
+          "organizacion": "Alcaldía Mayor de Bogotá",
+          "url": "https://bogota.gov.co/portaldelasoportunidades",
+          "ubicacion": "Bogotá, Colombia",
+          "activa": true,
+          "verificada": true
+        },
+        {
+          "nombre": "ICBF",
+          "organizacion": "Instituto Colombiano de Bienestar Familiar",
+          "url": "https://www.icbf.gov.co",
+          "activa": false,
+          "verificada": false,
+          "nota": "Reemplace la URL por la página exacta de convocatorias o banco de hojas de vida y cambie 'activa' a true."
+        },
+        {
+          "nombre": "Prosperidad Social",
+          "organizacion": "Departamento para la Prosperidad Social",
+          "url": "https://prosperidadsocial.gov.co",
+          "activa": false,
+          "verificada": false,
+          "nota": "Reemplace la URL por la página exacta de convocatorias y cambie 'activa' a true."
+        },
+        {
+          "nombre": "Unidad para las Víctimas",
+          "organizacion": "Unidad para la Atención y Reparación Integral a las Víctimas",
+          "url": "https://www.unidadvictimas.gov.co",
+          "activa": false,
+          "verificada": false,
+          "nota": "Reemplace la URL por la página exacta de convocatorias y cambie 'activa' a true."
+        },
+        {
+          "nombre": "APC-Colombia",
+          "organizacion": "Agencia Presidencial de Cooperación Internacional",
+          "url": "https://www.apccolombia.gov.co",
+          "activa": false,
+          "verificada": false,
+          "nota": "Reemplace la URL por la página exacta de convocatorias y cambie 'activa' a true."
+        },
+        {
+          "nombre": "Servicio Civil Distrital",
+          "organizacion": "Departamento Administrativo del Servicio Civil Distrital",
+          "url": "https://www.serviciocivil.gov.co",
+          "activa": false,
+          "verificada": false,
+          "nota": "Reemplace la URL por la página exacta de convocatorias y cambie 'activa' a true."
+        },
+        {
+          "nombre": "CNSC",
+          "organizacion": "Comisión Nacional del Servicio Civil",
+          "url": "https://www.cnsc.gov.co",
+          "activa": false,
+          "verificada": false,
+          "nota": "Reemplace la URL por la página de procesos de selección en curso y cambie 'activa' a true."
+        },
+        {
+          "nombre": "Función Pública",
+          "organizacion": "Departamento Administrativo de la Función Pública",
+          "url": "https://www.funcionpublica.gov.co",
+          "activa": false,
+          "verificada": false,
+          "nota": "Reemplace la URL por la página exacta de convocatorias y cambie 'activa' a true."
+        },
+        {
+          "nombre": "DNP",
+          "organizacion": "Departamento Nacional de Planeación",
+          "url": "https://www.dnp.gov.co",
+          "activa": false,
+          "verificada": false,
+          "nota": "Reemplace la URL por la página exacta de convocatorias y cambie 'activa' a true."
+        }
+      ]
+    },
+    "rss": {
+      "activa": true,
+      "descripcion": "Feeds RSS/Atom oficiales o alertas de Google restringidas a dominios oficiales.",
+      "feeds": [
+        {
+          "nombre": "Ejemplo – Alerta de Google (site:gov.co)",
+          "url": "https://www.google.com/alerts/feeds/REEMPLAZAR/REEMPLAZAR",
+          "organizacion": "",
+          "ubicacion": "Colombia",
+          "activa": false,
+          "nota": "Cree una alerta en google.com/alerts con la consulta indicada en el README, elija 'Enviar a: feed RSS', pegue aquí la URL y active."
+        }
+      ]
+    }
+  }
+}

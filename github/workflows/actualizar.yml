@@ -1,0 +1,61 @@
+name: Actualizar vacantes
+
+on:
+  schedule:
+    # 12:00 UTC = 7:00 a. m. hora de Colombia (UTC-5, sin horario de verano).
+    # GitHub puede demorar unos minutos el inicio en horas de alta demanda.
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+    inputs:
+      publicar_siempre:
+        description: "Publicar aunque no haya vacantes nuevas (por ejemplo, tras cambiar un perfil)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-vacantes
+  cancel-in-progress: false
+
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validar perfiles
+        run: python scripts/validar_perfil.py
+
+      - name: Buscar y puntuar vacantes
+        id: busqueda
+        env:
+          RELIEFWEB_APPNAME: ${{ secrets.RELIEFWEB_APPNAME }}
+        run: python scripts/buscar_ofertas.py
+
+      - name: Guardar y publicar si hay vacantes nuevas
+        if: steps.busqueda.outputs.nuevas != '0' || (inputs.publicar_siempre && steps.busqueda.outputs.cambios != '0')
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/ofertas.json data/vistos.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios para guardar."
+            exit 0
+          fi
+          git commit -m "Vacantes nuevas: ${{ steps.busqueda.outputs.nuevas }} ($(TZ=America/Bogota date +%F))"
+          git push
+
+      - name: Resumen
+        run: |
+          echo "### Resultado de la búsqueda" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Vacantes nuevas: **${{ steps.busqueda.outputs.nuevas }}**" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Cambios totales: ${{ steps.busqueda.outputs.cambios }}" >> "$GITHUB_STEP_SUMMARY"

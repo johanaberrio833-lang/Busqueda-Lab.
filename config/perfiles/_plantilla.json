@@ -1,0 +1,43 @@
+{
+  "_ayuda": "Copie este archivo con otro nombre (ej. trabajo-social.json), cambie 'id' por ese mismo nombre sin .json y llene los campos. Los archivos que empiezan por '_' se ignoran. Valide con: python scripts/validar_perfil.py config/perfiles/trabajo-social.json",
+  "id": "nombre-del-perfil",
+  "nombre": "Nombre visible en el dashboard",
+  "activo": true,
+  "descripcion": "Perfil anónimo: no ponga nombres, contactos, entidades donde ha trabajado ni datos sensibles.",
+  "perfil": {
+    "nivel": "profesional",
+    "formacion": ["Carrera", "Posgrado"],
+    "experiencia_profesional_anios": 0,
+    "idiomas_ofertas": ["es"]
+  },
+  "terminos_busqueda": ["frase corta 1", "frase corta 2"],
+  "roles_objetivo": ["Cargo exacto 1", "Variación del cargo", "Cargo en inglés si aplica"],
+  "palabras_clave_principales": {
+    "peso": 3,
+    "terminos": ["habilidad núcleo 1", "habilidad núcleo 2"]
+  },
+  "palabras_clave_secundarias": {
+    "peso": 1,
+    "terminos": ["herramienta", "metodología", "sector afín"]
+  },
+  "palabras_penalizacion": {
+    "peso": 6,
+    "terminos": ["requisito que resta puntos pero no descarta"]
+  },
+  "palabras_exclusion": ["término que descarta la oferta"],
+  "ubicacion_modalidad": {
+    "pais": "Colombia",
+    "ciudades_preferidas": ["Bogotá"],
+    "ciudades_aceptadas": [],
+    "solo_ciudades_listadas": false,
+    "modalidades_aceptadas": ["presencial", "híbrido", "remoto"],
+    "aceptar_remoto_internacional": false
+  },
+  "scoring": {
+    "puntos_por_rol_en_titulo": 8,
+    "puntos_por_rol_en_texto": 4,
+    "puntos_bonus_ciudad_preferida": 2,
+    "puntaje_crudo_para_100": 24,
+    "afinidad_minima_para_guardar": 30
+  }
+}

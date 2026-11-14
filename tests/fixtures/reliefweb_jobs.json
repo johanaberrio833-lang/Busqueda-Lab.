@@ -1,0 +1,16 @@
+{"totalCount": 4, "count": 4, "data": [
+ {"id": 4300001, "fields": {"title": "Procurement Associate", "url_alias": "https://reliefweb.int/job/4300001/procurement-associate",
+  "date": {"created": "2026-11-10T00:00:00+00:00", "closing": "2026-11-28T00:00:00+00:00"},
+  "source": [{"name": "United Nations Development Programme"}], "city": [{"name": "Bogotá"}], "country": [{"name": "Colombia"}],
+  "career_categories": [{"name": "Logistics/Procurement"}],
+  "body": "<p>Support <strong>public procurement</strong> processes and contract management. Experience with grants and the public sector in Colombia.</p>"}},
+ {"id": 4300002, "fields": {"title": "Finance Officer", "url_alias": "https://reliefweb.int/job/4300002/finance-officer",
+  "date": {"created": "2026-11-09T00:00:00+00:00"}, "source": [{"name": "International Organization for Migration"}],
+  "city": [{"name": "Cali"}], "country": [{"name": "Colombia"}], "body": "Budget monitoring and procurement."}},
+ {"id": 4300003, "fields": {"title": "Profesional de seguimiento presupuestal – proyectos de inversión", "url_alias": "https://reliefweb.int/job/4300003/profesional",
+  "date": {"created": "2026-11-11T00:00:00+00:00", "closing": "2026-11-20T00:00:00+00:00"}, "source": [{"name": "Organización de Estados Iberoamericanos"}],
+  "country": [{"name": "Colombia"}], "body": "Ejecución presupuestal, plan anual de adquisiciones, cooperación internacional, construcción de paz. Modalidad híbrida."}},
+ {"id": 4300004, "fields": {"title": "Communications Intern", "url_alias": "https://reliefweb.int/job/4300004/intern",
+  "date": {"created": "2026-11-08T00:00:00+00:00"}, "source": [{"name": "UNICEF"}], "city": [{"name": "Bogotá"}],
+  "country": [{"name": "Colombia"}], "body": "Social media and communications support."}}
+]}
