@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T02:57:38+00:00",
+  "actualizado": "2026-11-15T12:36:36+00:00",
   "perfiles": [
     {
       "id": "contratacion-publica",
@@ -9,7 +9,7 @@
   "estado_fuentes": {
     "reliefweb": {
       "ok": false,
-      "fecha": "2026-11-14T02:57:37+00:00",
+      "fecha": "2026-11-15T12:36:29+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0,
@@ -18,21 +18,67 @@
     },
     "paginas_oficiales": {
       "ok": true,
-      "fecha": "2026-11-14T02:57:37+00:00",
-      "obtenidas": 18,
-      "relevantes": 17,
-      "nuevas": 17
+      "fecha": "2026-11-15T12:36:29+00:00",
+      "obtenidas": 15,
+      "relevantes": 2,
+      "nuevas": 2
     },
     "rss": {
       "ok": true,
-      "fecha": "2026-11-14T02:57:38+00:00",
+      "fecha": "2026-11-15T12:36:36+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0
     }
   },
-  "total": 17,
+  "total": 19,
   "ofertas": [
+    {
+      "id": "834906f8f1d446b7",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Línea 4 del Metro",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/nacion-confirma-cofinanciacion-para-estudios-linea-4-metro-de-bogota",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "El alcalde Carlos Fernando Galán confirmó que se busca dejar contratada, antes de finalizar este 2026, la prefactibilidad del proyecto.. Nación confirma cofinanciación para estudios Línea 4 Metro de Bogotá | Bogota.gov.co 15 Noviembre Clima en Bogotá Línea 4 del Metro Desfile de Autos Clásicos Cursos virtuales gratis Becas de Jóvenes a la E Inicio Mi Ciudad Movilidad 2026 11 Nación confirma cofinanciación de estudios de la Línea 4 Metro de Bogotá: el aporte llegará a los $ 34.000 millones Nación confirma cofinanciación de estudios de la Línea 4 Metro de Bogotá: el aporte llegará a los $…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-15T12:36:36+00:00"
+    },
+    {
+      "id": "256a56571c1f19bb",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Desfile de Autos Clásicos",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/recorrido-y-vias-desfile-de-autos-clasicos-en-bogota-15-de-noviembre-2",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "El desfile inicia a las 8:30 a. m. desde Salitre Mágico y tendrá un recorrido por diferentes vías de Bogotá. Conoce la ruta y las recomendaciones.. Recorrido y vías desfile de Autos Clásicos en Bogotá 15 de noviembre 2 | Bogota.gov.co 15 Noviembre Clima en Bogotá Línea 4 del Metro Desfile de Autos Clásicos Cursos virtuales gratis Becas de Jóvenes a la E Inicio Mi Ciudad Desarrollo Económico 2026 11 Conoce el recorrido del desfile de Autos Clásicos en Bogotá ¡Agéndate y disfruta gratis hoy domingo 15 de noviembre! Conoce el recorrido del desfile de Autos Clásicos en Bogotá ¡Agéndate y disfruta…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-15T12:36:36+00:00"
+    },
     {
       "id": "f254a8e4ac1b7b1b",
       "fuente": "paginas_oficiales",
