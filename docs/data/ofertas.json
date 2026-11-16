@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T12:36:36+00:00",
+  "actualizado": "2026-11-16T14:49:09+00:00",
   "perfiles": [
     {
       "id": "contratacion-publica",
@@ -9,7 +9,7 @@
   "estado_fuentes": {
     "reliefweb": {
       "ok": false,
-      "fecha": "2026-11-15T12:36:29+00:00",
+      "fecha": "2026-11-16T14:49:05+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0,
@@ -18,21 +18,44 @@
     },
     "paginas_oficiales": {
       "ok": true,
-      "fecha": "2026-11-15T12:36:29+00:00",
-      "obtenidas": 15,
-      "relevantes": 2,
-      "nuevas": 2
+      "fecha": "2026-11-16T14:49:05+00:00",
+      "obtenidas": 14,
+      "relevantes": 1,
+      "nuevas": 1
     },
     "rss": {
       "ok": true,
-      "fecha": "2026-11-15T12:36:36+00:00",
+      "fecha": "2026-11-16T14:49:09+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0
     }
   },
-  "total": 19,
+  "total": 20,
   "ofertas": [
+    {
+      "id": "b0fbfcea4606b992",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Pico y placa regional",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/el-16-de-noviembre-2026-hay-pico-y-placa-regional-para-entrar-bogota",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "El pico y placa regional funciona este lunes festivo 16 de noviembre de 2026 en los nueve corredores de ingreso a Bogotá.. El 16 de noviembre 2026 hay pico y placa regional para entrar a Bogotá | Bogota.gov.co 16 Noviembre Clima en Bogotá Pico y placa regional Línea 4 del Metro Cursos virtuales gratis Becas de Jóvenes a la E Inicio Mi Ciudad Movilidad 2026 11 Hoy lunes festivo 16 de noviembre hay pico y placa regional para entrar a Bogotá ¡Programa tu retorno! Hoy lunes festivo 16 de noviembre hay pico y placa regional para entrar a Bogotá ¡Programa tu retorno! Hoy lunes festivo 16 de…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-16T14:49:09+00:00"
+    },
     {
       "id": "834906f8f1d446b7",
       "fuente": "paginas_oficiales",
