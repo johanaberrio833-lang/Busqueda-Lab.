@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T14:49:09+00:00",
+  "actualizado": "2026-11-17T12:51:27+00:00",
   "perfiles": [
     {
       "id": "contratacion-publica",
@@ -9,7 +9,7 @@
   "estado_fuentes": {
     "reliefweb": {
       "ok": false,
-      "fecha": "2026-11-16T14:49:05+00:00",
+      "fecha": "2026-11-17T12:51:22+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0,
@@ -18,21 +18,67 @@
     },
     "paginas_oficiales": {
       "ok": true,
-      "fecha": "2026-11-16T14:49:05+00:00",
-      "obtenidas": 14,
-      "relevantes": 1,
-      "nuevas": 1
+      "fecha": "2026-11-17T12:51:22+00:00",
+      "obtenidas": 15,
+      "relevantes": 2,
+      "nuevas": 2
     },
     "rss": {
       "ok": true,
-      "fecha": "2026-11-16T14:49:09+00:00",
+      "fecha": "2026-11-17T12:51:27+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0
     }
   },
-  "total": 20,
+  "total": 22,
   "ofertas": [
+    {
+      "id": "b2667b7671118c72",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "La Unidad Móvil Agencia de Empleo llega a Puente Aranda: Trabajo sí hay hasta el sábado…",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-bogota-en-puente-aranda-hasta-21-de-noviembre-de-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "¿Vives en el occidente de Bogotá y estás buscando empleo? Asiste con hoja de vida y documento de identidad hasta el 21 de noviembre. Aquí detalles.. Trabajo sí hay Bogotá en Puente Aranda hasta 21 de noviembre de 2026 | Bogota.gov.co 17 Noviembre Clima en Bogotá Ingreso Mínimo Garantizado Trabajo sí hay en Bogotá Cursos virtuales gratis Becas de Jóvenes a la E Inicio Mi Ciudad Desarrollo Económico 2026 11 La Unidad Móvil Agencia de Empleo llega a Puente Aranda: Trabajo sí hay hasta el sábado 21 de noviembre La Unidad Móvil Agencia de Empleo llega a Puente Aranda: Trabajo sí hay hasta el…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-17T12:51:27+00:00"
+    },
+    {
+      "id": "76fdfc5e755a444a",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Feria de empleo en Bogotá para personas refugiadas, migrantes y retornadas",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-bogota-vacantes-para-migrantes-18-de-noviembre-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "La jornada reunirá a más de 30 empresas y ofrecerá oportunidades laborales el próximo 18 de noviembre de 2026 en Suba.. Trabajo si hay Bogotá vacantes para migrantes 18 de noviembre 2026 | Bogota.gov.co 17 Noviembre Clima en Bogotá Ingreso Mínimo Garantizado Trabajo sí hay en Bogotá Cursos virtuales gratis Becas de Jóvenes a la E Inicio Mi Ciudad Desarrollo Económico 2026 11 Feria de empleo en Bogotá para personas refugiadas, migrantes y retornadas Feria de empleo en Bogotá para personas refugiadas, migrantes y retornadas Feria de empleo en Bogotá para personas refugiadas, migrantes y…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-17T12:51:27+00:00"
+    },
     {
       "id": "b0fbfcea4606b992",
       "fuente": "paginas_oficiales",
