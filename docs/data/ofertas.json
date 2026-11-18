@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T12:51:27+00:00",
+  "actualizado": "2026-11-18T12:56:33+00:00",
   "perfiles": [
     {
       "id": "contratacion-publica",
@@ -9,7 +9,7 @@
   "estado_fuentes": {
     "reliefweb": {
       "ok": false,
-      "fecha": "2026-11-17T12:51:22+00:00",
+      "fecha": "2026-11-18T12:56:32+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0,
@@ -18,21 +18,92 @@
     },
     "paginas_oficiales": {
       "ok": true,
-      "fecha": "2026-11-17T12:51:22+00:00",
-      "obtenidas": 15,
-      "relevantes": 2,
-      "nuevas": 2
+      "fecha": "2026-11-18T12:56:32+00:00",
+      "obtenidas": 8,
+      "relevantes": 3,
+      "nuevas": 3
     },
     "rss": {
       "ok": true,
-      "fecha": "2026-11-17T12:51:27+00:00",
+      "fecha": "2026-11-18T12:56:33+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0
     }
   },
-  "total": 22,
+  "total": 25,
   "ofertas": [
+    {
+      "id": "d2aadb0f594bd899",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Apoyos comerciantes Gran San",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/bogota-apoya-comerciantes-afectados-incendio-centro-comercial-gran-san",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "La estrategia incluye acceso a ferias comerciales, fortalecimiento empresarial, comercio electrónico, promoción de San Victorino y acompañamiento.. Bogotá apoya comerciantes afectados incendio centro comercial Gran San | Bogota.gov.co 17 Noviembre Clima en Bogotá Ingreso Mínimo Garantizado Apoyos comerciantes Gran San Trabajo sí hay en Bogotá Becas de Jóvenes a la E Inicio Mi Ciudad Desarrollo Económico 2026 11 Bogotá anuncia incentivos de hasta $ 10 millones para comerciantes afectados por incendio en Centro Comercial Gran San Bogotá anuncia incentivos de hasta $ 10 millones para…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-18T12:56:33+00:00"
+    },
+    {
+      "id": "c2bb1faa94cb499d",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "Más de 3.000 oportunidades laborales esta semana en Bogotá: conoce cómo y dónde postularte",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-en-bogota-3000-ofertas-de-empleo-17-al-21-de-noviembre",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "La Agencia de Empleo de Bogotá realizará tres ferias presenciales con vacantes en sectores como tecnología, salud, comercio, logística y servicios.. Trabajo si hay en Bogotá, 3000 ofertas de empleo 17 al 21 de noviembre | Bogota.gov.co 18 Noviembre Clima en Bogotá Ingreso Mínimo Garantizado Apoyos comerciantes Gran San Trabajo sí hay en Bogotá Becas de Jóvenes a la E Inicio Mi Ciudad Desarrollo Económico 2026 11 Más de 3.000 oportunidades laborales esta semana en Bogotá: conoce cómo y dónde postularte Más de 3.000 oportunidades laborales esta semana en Bogotá: conoce cómo y dónde postularte…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 12,
+          "rol": null,
+          "coincidencias": [
+            "sin experiencia"
+          ],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-18T12:56:33+00:00"
+    },
+    {
+      "id": "21fe7dfe2f6e7ae1",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "Esta semana se destacan cinco convocatorias e iniciativas que buscan impulsar proyectos y emprendimientos en Bogotá. ¡Revisa la oferta y postúlate!",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/internacional/2026-11/financiacion-proyectos-y-apoyos-emprendedores-desde-bogota-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Esta semana se destacan cinco convocatorias e iniciativas que buscan impulsar proyectos y emprendimientos en Bogotá. ¡Revisa la oferta y postúlate!. Financiación proyectos y apoyos a emprendedores desde Bogotá 2026 | Bogota.gov.co 18 Noviembre Clima en Bogotá Ingreso Mínimo Garantizado Apoyos comerciantes Gran San Trabajo sí hay en Bogotá Becas de Jóvenes a la E Inicio Internacional 2026 11 Conoce apoyos y financiación para proyectos y emprendedores con el Boletín de Oferta Internacional de Bogotá Conoce apoyos y financiación para proyectos y emprendedores con el Boletín de Oferta…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-18T12:56:33+00:00"
+    },
     {
       "id": "b2667b7671118c72",
       "fuente": "paginas_oficiales",
