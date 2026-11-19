@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T12:56:33+00:00",
+  "actualizado": "2026-11-19T12:58:21+00:00",
   "perfiles": [
     {
       "id": "contratacion-publica",
@@ -9,7 +9,7 @@
   "estado_fuentes": {
     "reliefweb": {
       "ok": false,
-      "fecha": "2026-11-18T12:56:32+00:00",
+      "fecha": "2026-11-19T12:58:16+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0,
@@ -18,21 +18,92 @@
     },
     "paginas_oficiales": {
       "ok": true,
-      "fecha": "2026-11-18T12:56:32+00:00",
-      "obtenidas": 8,
+      "fecha": "2026-11-19T12:58:16+00:00",
+      "obtenidas": 19,
       "relevantes": 3,
       "nuevas": 3
     },
     "rss": {
       "ok": true,
-      "fecha": "2026-11-18T12:56:33+00:00",
+      "fecha": "2026-11-19T12:58:21+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0
     }
   },
-  "total": 25,
+  "total": 28,
   "ofertas": [
+    {
+      "id": "80d5eaba28d58ef6",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Movilidad por manifestaciones hoy",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/paro-nacional-en-vivo-movilidad-en-bogota-hoy-jueves-19-de-noviembre",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Entérate de los reportes más relevantes de la Secretaría de Movilidad y de TransMilenio para hoy jueves 19 de noviembre de 2026.. Paro nacional en vivo movilidad en Bogotá hoy jueves 19 de noviembre | Bogota.gov.co 19 Noviembre Clima en Bogotá Movilidad por manifestaciones hoy Ingreso Mínimo Garantizado Apoyos comerciantes Gran San Trabajo sí hay en Bogotá Inicio Mi Ciudad Movilidad 2026 11 Manifestación en av. Primero de Mayo y en autopista Sur: movilidad en Bogotá y TransMilenio hoy jueves 19 de noviembre Manifestación en av. Primero de Mayo y en autopista Sur: movilidad en Bogotá y…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-19T12:58:21+00:00"
+    },
+    {
+      "id": "316c2bfde9b4cdc4",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Bogotá ofrece cerca de 900 oportunidades de empleo en ferias y convocatorias laborales…",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-en-bogota-870-vacantes-disponibles-18-y-19-noviembre",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Hay vacantes para bachilleres y perfiles bilingües, así como oportunidades en el sector tecnológico y financiero. Conoce cómo participar.. Trabajo sí hay en Bogotá 870 vacantes disponibles 18 y 19 noviembre | Bogota.gov.co 19 Noviembre Clima en Bogotá Movilidad por manifestaciones hoy Ingreso Mínimo Garantizado Apoyos comerciantes Gran San Trabajo sí hay en Bogotá Inicio Mi Ciudad Desarrollo Económico 2026 11 Bogotá ofrece cerca de 900 oportunidades de empleo en ferias y convocatorias laborales este 18 y 19 de noviembre Bogotá ofrece cerca de 900 oportunidades de empleo en ferias y…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-19T12:58:21+00:00"
+    },
+    {
+      "id": "1cf023bf50ce4208",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "Conoce las convocatorias con financiación que trae la Oferta Internacional de Bogotá",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/servicios/oportunidades-y-apoyos/conoce-las-convocatorias-con-financiacion-que-trae-la-oferta-internacional-de-bogota",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Conoce las convocatorias que trae la Oferta Internacional | Bogota.gov.co 19 Noviembre Clima en Bogotá Movilidad por manifestaciones hoy Ingreso Mínimo Garantizado Apoyos comerciantes Gran San Trabajo sí hay en Bogotá Inicio Servicios Oportunidades, apoyos, estímulos y empleos de la Alcaldía de Bogotá Conoce las convocatorias con financiación que trae la Oferta Internacional de Bogotá Conoce las convocatorias con financiación que trae la Oferta Internacional de Bogotá Conoce las convocatorias con financiación que trae la Oferta Internacional de Bogotá 18 Noviembre Miércoles Al 31 Diciembre…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 12,
+          "rol": null,
+          "coincidencias": [
+            "participación ciudadana"
+          ],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-19T12:58:21+00:00"
+    },
     {
       "id": "d2aadb0f594bd899",
       "fuente": "paginas_oficiales",
