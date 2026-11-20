@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T12:58:21+00:00",
+  "actualizado": "2026-11-20T12:54:30+00:00",
   "perfiles": [
     {
       "id": "contratacion-publica",
@@ -9,7 +9,7 @@
   "estado_fuentes": {
     "reliefweb": {
       "ok": false,
-      "fecha": "2026-11-19T12:58:16+00:00",
+      "fecha": "2026-11-20T12:54:27+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0,
@@ -18,21 +18,44 @@
     },
     "paginas_oficiales": {
       "ok": true,
-      "fecha": "2026-11-19T12:58:16+00:00",
-      "obtenidas": 19,
-      "relevantes": 3,
-      "nuevas": 3
+      "fecha": "2026-11-20T12:54:27+00:00",
+      "obtenidas": 18,
+      "relevantes": 1,
+      "nuevas": 1
     },
     "rss": {
       "ok": true,
-      "fecha": "2026-11-19T12:58:21+00:00",
+      "fecha": "2026-11-20T12:54:30+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0
     }
   },
-  "total": 28,
+  "total": 29,
   "ofertas": [
+    {
+      "id": "dab75f958c06ff18",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Becas en Bogotá",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/gobierno/2026-11/becas-de-pregrado-maestria-y-doctorado-en-bogota-hasta-15-diciembre",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Esta es una oportunidad para dar el siguiente paso en la formación académica y fortalecer las competencias profesionales.. Becas de pregrado, maestría y doctorado en Bogotá hasta 15 diciembre | Bogota.gov.co 20 Noviembre Clima en Bogotá Becas en Bogotá Ingreso Mínimo Garantizado Apoyos comerciantes Gran San Trabajo sí hay en Bogotá Inicio Mi Ciudad Gobierno 2026 11 100 nuevas becas para programas de pregrado, maestría y doctorado en Bogotá 100 nuevas becas para programas de pregrado, maestría y doctorado en Bogotá 100 nuevas becas para programas de pregrado, maestría y doctorado en Bogotá…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-20T12:54:30+00:00"
+    },
     {
       "id": "80d5eaba28d58ef6",
       "fuente": "paginas_oficiales",
