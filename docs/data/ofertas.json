@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T12:54:30+00:00",
+  "actualizado": "2026-11-21T18:41:00+00:00",
   "perfiles": [
     {
       "id": "contratacion-publica",
@@ -9,7 +9,7 @@
   "estado_fuentes": {
     "reliefweb": {
       "ok": false,
-      "fecha": "2026-11-20T12:54:27+00:00",
+      "fecha": "2026-11-21T18:40:58+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0,
@@ -18,21 +18,90 @@
     },
     "paginas_oficiales": {
       "ok": true,
-      "fecha": "2026-11-20T12:54:27+00:00",
-      "obtenidas": 18,
-      "relevantes": 1,
-      "nuevas": 1
+      "fecha": "2026-11-21T18:40:58+00:00",
+      "obtenidas": 19,
+      "relevantes": 3,
+      "nuevas": 3
     },
     "rss": {
       "ok": true,
-      "fecha": "2026-11-20T12:54:30+00:00",
+      "fecha": "2026-11-21T18:41:00+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0
     }
   },
-  "total": 29,
+  "total": 32,
   "ofertas": [
+    {
+      "id": "2c724e7422f71b10",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Bogotá declara Alerta Fase 1 por contaminación del aire",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/ambiente/2026-11/alerta-fase-1-por-contaminacion-del-aire-en-el-suroccidente-de-bogota",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Durante las últimas 36 horas, cuatro estaciones de monitoreo de la calidad del aire del suroccidente de Bogotá, registraron niveles regulares.. Alerta Fase 1 por contaminación del aire en el suroccidente de Bogotá | Bogota.gov.co 21 Noviembre Clima en Bogotá Bogotá declara Alerta Fase 1 por contaminación del aire Obras ampliación autopista Norte en Bogotá Becas en Bogotá Ingreso Mínino Garantizado Inicio Mi Ciudad Ambiente 2026 11 Bogotá declara Alerta Fase 1 por contaminación del aire en el suroccidente de la ciudad Bogotá declara Alerta Fase 1 por contaminación del aire en el suroccidente…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-21T18:41:00+00:00"
+    },
+    {
+      "id": "1d893c31393c1c36",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Obras ampliación autopista Norte en Bogotá",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/inician-obras-de-ampliacion-de-la-autopista-norte-en-bogota-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "La ampliación de la autopista Norte busca reducir los tiempos de desplazamiento entre municipios de la Sabana con Bogotá y de viajeros al norte del país.. Inician obras de ampliación de la autopista Norte en Bogotá 2026 | Bogota.gov.co 21 Noviembre Clima en Bogotá Bogotá declara Alerta Fase 1 por contaminación del aire Obras ampliación autopista Norte en Bogotá Becas en Bogotá Ingreso Mínino Garantizado Inicio Mi Ciudad Movilidad 2026 11 La ampliación de la autopista Norte ya inició y será una realidad para Bogotá La ampliación de la autopista Norte ya inició y será una realidad para Bogotá…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-21T18:41:00+00:00"
+    },
+    {
+      "id": "28b9be9258f0b2c2",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "¿Te vas a inscribir a una convocatoria educativa con Atenea en Bogotá? Te compartimos el...",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/educacion/2026-11/como-postularse-becas-y-convocatorias-de-educacion-atenea-en-bogota",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Sigue estas indicaciones y verifica que tu información y documentación estén completas antes de finalizar el proceso.. Cómo postularse a becas y convocatorias de educación Atenea en Bogotá | Bogota.gov.co 21 Noviembre Clima en Bogotá Bogotá declara Alerta Fase 1 por contaminación del aire Obras ampliación autopista Norte en Bogotá Becas en Bogotá Ingreso Mínino Garantizado Inicio Mi Ciudad Educación 2026 11 ¿Te vas a inscribir a una convocatoria educativa con Atenea en Bogotá? Te compartimos el paso a paso ¿Te vas a inscribir a una convocatoria educativa con Atenea en Bogotá? Te compartimos…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-21T18:41:00+00:00"
+    },
     {
       "id": "dab75f958c06ff18",
       "fuente": "paginas_oficiales",
