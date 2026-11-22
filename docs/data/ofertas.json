@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T18:41:00+00:00",
+  "actualizado": "2026-11-22T19:01:48+00:00",
   "perfiles": [
     {
       "id": "contratacion-publica",
@@ -9,7 +9,7 @@
   "estado_fuentes": {
     "reliefweb": {
       "ok": false,
-      "fecha": "2026-11-21T18:40:58+00:00",
+      "fecha": "2026-11-22T19:01:44+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0,
@@ -18,21 +18,44 @@
     },
     "paginas_oficiales": {
       "ok": true,
-      "fecha": "2026-11-21T18:40:58+00:00",
+      "fecha": "2026-11-22T19:01:44+00:00",
       "obtenidas": 19,
-      "relevantes": 3,
-      "nuevas": 3
+      "relevantes": 1,
+      "nuevas": 1
     },
     "rss": {
       "ok": true,
-      "fecha": "2026-11-21T18:41:00+00:00",
+      "fecha": "2026-11-22T19:01:48+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0
     }
   },
-  "total": 32,
+  "total": 33,
   "ofertas": [
+    {
+      "id": "a7484b95e4e4dfad",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "Convocatoria abierta hasta el 24 de noviembre de 2026; requiere admisión previa en una de las instituciones habilitadas con la Agencia Distrital Atenea.",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/educacion/2026-11/bogota-ofrece-becas-credito-universitarias-jovenes-de-estratos-1-4",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Convocatoria abierta hasta el 24 de noviembre de 2026; requiere admisión previa en una de las instituciones habilitadas con la Agencia Distrital Atenea.. Bogotá ofrece becas-crédito universitarias a jóvenes de estratos 1 a 4 | Bogota.gov.co 22 Noviembre Clima en Bogotá Bogotá declara Alerta Fase 1 por contaminación del aire Obras ampliación autopista Norte en Bogotá Becas en Bogotá Ingreso Mínino Garantizado Inicio Mi Ciudad Educación 2026 11 Bogotá otorga becas-crédito para que jóvenes de estratos 1 a 4 estudien en la universidad Bogotá otorga becas-crédito para que jóvenes de estratos 1 a 4…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-22T19:01:48+00:00"
+    },
     {
       "id": "2c724e7422f71b10",
       "fuente": "paginas_oficiales",
