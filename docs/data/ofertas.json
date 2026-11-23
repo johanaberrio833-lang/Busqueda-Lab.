@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22T19:01:48+00:00",
+  "actualizado": "2026-11-23T23:23:35+00:00",
   "perfiles": [
     {
       "id": "contratacion-publica",
@@ -9,7 +9,7 @@
   "estado_fuentes": {
     "reliefweb": {
       "ok": false,
-      "fecha": "2026-11-22T19:01:44+00:00",
+      "fecha": "2026-11-23T23:23:29+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0,
@@ -18,21 +18,117 @@
     },
     "paginas_oficiales": {
       "ok": true,
-      "fecha": "2026-11-22T19:01:44+00:00",
-      "obtenidas": 19,
-      "relevantes": 1,
-      "nuevas": 1
+      "fecha": "2026-11-23T23:23:29+00:00",
+      "obtenidas": 21,
+      "relevantes": 4,
+      "nuevas": 4
     },
     "rss": {
       "ok": true,
-      "fecha": "2026-11-22T19:01:48+00:00",
+      "fecha": "2026-11-23T23:23:35+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0
     }
   },
-  "total": 33,
+  "total": 37,
   "ofertas": [
+    {
+      "id": "538f8cd492f352ad",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Trabajo sí hay en Bogotá: son 2.934 vacantes con postulación virtual y presencial hasta…",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-bogota-hay-2934-vacantes-laborales-hasta-28-de-noviembre-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Hay 181 vacantes para personas sin experiencia y 365 están dirigidas a mayores de 50 años. ¡Revisa detalles y postúlate!. Trabajo Bogotá hay 2934 vacantes laborales hasta 28 de noviembre 2026 | Bogota.gov.co 23 Noviembre Clima en Bogotá EPM asume operación alumbrado público Bogotá declara alerta por calidad del aire Becas en Bogotá Ingreso Mínino Garantizado Inicio Mi Ciudad Desarrollo Económico 2026 11 Trabajo sí hay en Bogotá: son 2.934 vacantes con postulación virtual y presencial hasta el sábado 28 de noviembre Trabajo sí hay en Bogotá: son 2.934 vacantes con postulación virtual y…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 12,
+          "rol": null,
+          "coincidencias": [
+            "sin experiencia"
+          ],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-23T23:23:35+00:00"
+    },
+    {
+      "id": "c3c90b1069fe9fd5",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "La Unidad Móvil Agencia de Empleo llega a Tunjuelito: Trabajo sí hay hasta el sábado 28…",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-bogota-en-tunjuelito-hasta-28-de-noviembre-de-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "¿Vives en el sur de Bogotá y estás buscando empleo? Asiste con hoja de vida y documento de identidad hasta el 28 de noviembre. Aquí detalles.. Trabajo sí hay Bogotá en Tunjuelito hasta 28 de noviembre de 2026 | Bogota.gov.co 23 Noviembre Clima en Bogotá EPM asume operación alumbrado público Bogotá declara alerta por calidad del aire Becas en Bogotá Ingreso Mínino Garantizado Inicio Mi Ciudad Desarrollo Económico 2026 11 La Unidad Móvil Agencia de Empleo llega a Tunjuelito: Trabajo sí hay hasta el sábado 28 de noviembre La Unidad Móvil Agencia de Empleo llega a Tunjuelito: Trabajo sí hay hasta…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-23T23:23:35+00:00"
+    },
+    {
+      "id": "17d4827d510841a9",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Trabajo si hay en Bogotá: 200 vacantes para bachilleres en el sector de seguridad",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-en-bogota-200-vacantes-para-bachilleres-24-de-noviembre",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "La jornada de selección será el martes 24 de noviembre. Hay oportunidades para personas con y sin experiencia, según el cargo.. Trabajo si hay en Bogotá 200 vacantes para bachilleres 24 de noviembre | Bogota.gov.co 23 Noviembre Clima en Bogotá EPM asume operación alumbrado público Bogotá declara alerta por calidad del aire Becas en Bogotá Ingreso Mínino Garantizado Inicio Mi Ciudad Desarrollo Económico 2026 11 Trabajo si hay en Bogotá: 200 vacantes para bachilleres en el sector de seguridad Trabajo si hay en Bogotá: 200 vacantes para bachilleres en el sector de seguridad Trabajo si hay en…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 12,
+          "rol": null,
+          "coincidencias": [
+            "sin experiencia"
+          ],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-23T23:23:35+00:00"
+    },
+    {
+      "id": "a24f60d5d8265a88",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "Becas, cursos gratis y apoyos a emprendedores: convocatorias en el Boletín de Oferta...",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/internacional/2026-11/becas-cursos-gratis-y-apoyos-boletin-oferta-internacional-de-bogota",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "¿Sueñas con estudiar en el exterior, fortalecer habilidades, hacer crecer tu emprendimiento o transformar una idea en un proyecto de impacto? Revisa aquí.. Becas, cursos gratis y apoyos Boletín Oferta Internacional de Bogotá | Bogota.gov.co 23 Noviembre Clima en Bogotá EPM asume operación alumbrado público Bogotá declara alerta por calidad del aire Becas en Bogotá Ingreso Mínino Garantizado Inicio Internacional 2026 11 Becas, cursos gratis y apoyos a emprendedores: convocatorias en el Boletín de Oferta Internacional de Bogotá Becas, cursos gratis y apoyos a emprendedores: convocatorias en el…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-23T23:23:35+00:00"
+    },
     {
       "id": "a7484b95e4e4dfad",
       "fuente": "paginas_oficiales",
