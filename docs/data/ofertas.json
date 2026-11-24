@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T23:23:35+00:00",
+  "actualizado": "2026-11-24T21:54:50+00:00",
   "perfiles": [
     {
       "id": "contratacion-publica",
@@ -9,7 +9,7 @@
   "estado_fuentes": {
     "reliefweb": {
       "ok": false,
-      "fecha": "2026-11-23T23:23:29+00:00",
+      "fecha": "2026-11-24T21:54:44+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0,
@@ -18,21 +18,70 @@
     },
     "paginas_oficiales": {
       "ok": true,
-      "fecha": "2026-11-23T23:23:29+00:00",
+      "fecha": "2026-11-24T21:54:44+00:00",
       "obtenidas": 21,
-      "relevantes": 4,
-      "nuevas": 4
+      "relevantes": 2,
+      "nuevas": 2
     },
     "rss": {
       "ok": true,
-      "fecha": "2026-11-23T23:23:35+00:00",
+      "fecha": "2026-11-24T21:54:50+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0
     }
   },
-  "total": 37,
+  "total": 39,
   "ofertas": [
+    {
+      "id": "e47903d0281a215b",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Manifestaciones 25N en Bogotá",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/gobierno/2026-11/marchas-y-manifestaciones-en-bogota-25n-miercoles-25-de-noviembre-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Bosa y Teusaquillo tendrán, respectivamente, actividades culturales y una marcha. Conoce los puntos de encuentro y los horarios de esta jornada de 25N.. Marchas y manifestaciones en Bogotá 25N miércoles 25 de noviembre 2026 | Bogota.gov.co 24 Noviembre Clima en Bogotá Manifestaciones 25N en Bogotá Trabajo sí hay EPM asume alumbrado público Alerta por calidad del aire Inicio Mi Ciudad Gobierno 2026 11 Conoce las marchas y manifestaciones previstas en Bogotá para este miércoles 25 de noviembre: puntos y horarios del 25N Conoce las marchas y manifestaciones previstas en Bogotá para este…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-24T21:54:50+00:00"
+    },
+    {
+      "id": "0576671339c87138",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "Abren vacantes para oficiales de mampostería para obra del Metro de Bogotá",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/vacantes-para-oficiales-de-mamposteria-para-obra-del-metro-de-bogota",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Únete a las más de 17.000 personas que hoy hacen posible que la Línea 1 del Metro de Bogotá avance. ¡Alista tu hoja de vida!. Vacantes para oficiales de mampostería para obra del Metro de Bogotá | Bogota.gov.co 24 Noviembre Clima en Bogotá Manifestaciones 25N en Bogotá Trabajo sí hay EPM asume alumbrado público Alerta por calidad del aire Inicio Mi Ciudad Movilidad 2026 11 Abren vacantes para oficiales de mampostería para obra del Metro de Bogotá Abren vacantes para oficiales de mampostería para obra del Metro de Bogotá Abren vacantes para oficiales de mampostería para obra del Metro de…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 17,
+          "rol": null,
+          "coincidencias": [
+            "3 años",
+            "5 años"
+          ],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-24T21:54:50+00:00"
+    },
     {
       "id": "538f8cd492f352ad",
       "fuente": "paginas_oficiales",
