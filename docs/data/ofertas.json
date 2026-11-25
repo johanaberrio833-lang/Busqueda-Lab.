@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T21:54:50+00:00",
+  "actualizado": "2026-11-25T21:02:12+00:00",
   "perfiles": [
     {
       "id": "contratacion-publica",
@@ -9,7 +9,7 @@
   "estado_fuentes": {
     "reliefweb": {
       "ok": false,
-      "fecha": "2026-11-24T21:54:44+00:00",
+      "fecha": "2026-11-25T21:02:08+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0,
@@ -18,21 +18,115 @@
     },
     "paginas_oficiales": {
       "ok": true,
-      "fecha": "2026-11-24T21:54:44+00:00",
+      "fecha": "2026-11-25T21:02:08+00:00",
       "obtenidas": 21,
-      "relevantes": 2,
-      "nuevas": 2
+      "relevantes": 4,
+      "nuevas": 4
     },
     "rss": {
       "ok": true,
-      "fecha": "2026-11-24T21:54:50+00:00",
+      "fecha": "2026-11-25T21:02:12+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0
     }
   },
-  "total": 39,
+  "total": 43,
   "ofertas": [
+    {
+      "id": "aec32e4133ed72f6",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Festival Salsa al Parque",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/que-hacer/cultura/2026-11/planes-gratis-bogota-programacion-salsa-al-parque-2026-noviembre-28-29",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Te presentamos la programación completa de Salsa al Parque 2026 para el 28 y 29 de noviembre en el Parque Simón Bolívar.. Planes gratis Bogotá Programación Salsa al Parque 2026 noviembre 28-29 | Bogota.gov.co 25 Noviembre Clima en Bogotá Manifestaciones hoy 25N en Bogotá Festival Salsa al Parque Trabajo sí hay Alerta por calidad del aire Inicio ¿Qué hacer? cultura 2026 11 ¡Prográmate! Mira los horarios y agrupaciones de Salsa al Parque 2026 este sábado 28 y domingo 29 de noviembre ¡Prográmate! Mira los horarios y agrupaciones de Salsa al Parque 2026 este sábado 28 y domingo 29 de noviembre…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-25T21:02:12+00:00"
+    },
+    {
+      "id": "76166a22cab67a38",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Alerta por calidad del aire",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/ambiente/2026-11/suroccidente-de-bogota-mantiene-alerta-fase-1-por-contaminacion-aire",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Aunque se han presentado fuertes lluvias en otras zonas, en el suroccidente persisten los vientos débiles que dificultan la dispersión de contaminantes.. suroccidente de Bogotá mantiene Alerta Fase 1 por contaminación aire | Bogota.gov.co 25 Noviembre Clima en Bogotá Manifestaciones hoy 25N en Bogotá Festival Salsa al Parque Trabajo sí hay Alerta por calidad del aire Inicio Mi Ciudad Ambiente 2026 11 Suroccidente de Bogotá se mantiene en Alerta Fase 1 por contaminación del aire Suroccidente de Bogotá se mantiene en Alerta Fase 1 por contaminación del aire Suroccidente de Bogotá se mantiene en…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-25T21:02:12+00:00"
+    },
+    {
+      "id": "6565d01efa9ff7de",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Trabajo si hay en Bogotá: dos ferias de empleo con más de 1.200 oportunidades laborales",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/trabajo-si-hay-en-bogota-ferias-de-empleo-bogota-25-y-26-de-noviembre",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Las jornadas se realizarán el 25 y 26 de noviembre en las localidades de San Cristóbal y Kennedy, con ofertas para diferentes perfiles.. Trabajo si hay en Bogotá Ferias de empleo Bogotá 25 y 26 de noviembre | Bogota.gov.co 25 Noviembre Clima en Bogotá Manifestaciones hoy 25N en Bogotá Festival Salsa al Parque Trabajo sí hay Alerta por calidad del aire Inicio Mi Ciudad Desarrollo Económico 2026 11 Trabajo si hay en Bogotá: dos ferias de empleo con más de 1.200 oportunidades laborales Trabajo si hay en Bogotá: dos ferias de empleo con más de 1.200 oportunidades laborales Trabajo si hay en…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 12,
+          "rol": null,
+          "coincidencias": [
+            "sin experiencia"
+          ],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-25T21:02:12+00:00"
+    },
+    {
+      "id": "79068db8e8a47c81",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "Viernes 27 de noviembre: asiste a feria de empleo en Barrios Unidos y vincúlate a la obra...",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/trabajo-en-bogota-feria-de-empleo-en-barrios-unidos-para-obra-metro",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Este proceso de selección es gratuito. Desconfía si te solicitan dinero para cursos, trámites, tiquetes, exámenes o certificados.. Trabajo en Bogotá feria de empleo en Barrios Unidos para obra Metro | Bogota.gov.co 25 Noviembre Clima en Bogotá Manifestaciones hoy 25N en Bogotá Festival Salsa al Parque Trabajo sí hay Alerta por calidad del aire Inicio Mi Ciudad Movilidad 2026 11 Viernes 27 de noviembre: asiste a feria de empleo en Barrios Unidos y vincúlate a la obra de la Línea 1 del Metro Viernes 27 de noviembre: asiste a feria de empleo en Barrios Unidos y vincúlate a la obra de la Línea 1…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-25T21:02:12+00:00"
+    },
     {
       "id": "e47903d0281a215b",
       "fuente": "paginas_oficiales",
