@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T21:02:12+00:00",
+  "actualizado": "2026-11-26T20:55:05+00:00",
   "perfiles": [
     {
       "id": "contratacion-publica",
@@ -9,7 +9,7 @@
   "estado_fuentes": {
     "reliefweb": {
       "ok": false,
-      "fecha": "2026-11-25T21:02:08+00:00",
+      "fecha": "2026-11-26T20:55:01+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0,
@@ -18,21 +18,46 @@
     },
     "paginas_oficiales": {
       "ok": true,
-      "fecha": "2026-11-25T21:02:08+00:00",
+      "fecha": "2026-11-26T20:55:01+00:00",
       "obtenidas": 21,
-      "relevantes": 4,
-      "nuevas": 4
+      "relevantes": 2,
+      "nuevas": 1
     },
     "rss": {
       "ok": true,
-      "fecha": "2026-11-25T21:02:12+00:00",
+      "fecha": "2026-11-26T20:55:05+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0
     }
   },
-  "total": 43,
+  "total": 44,
   "ofertas": [
+    {
+      "id": "55689431137b66ba",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Portal de oportunidades",
+      "tipo": "convocatoria",
+      "titulo": "Empresas, gremios y organizaciones fueron reconocidos por promover oportunidades de empleo para quienes enfrentan barreras de acceso al mercado laboral",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/2026-11/34-organizaciones-reciben-el-sello-bogota-incluyente-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Empresas, gremios y organizaciones fueron reconocidos por promover oportunidades de empleo para quienes enfrentan barreras de acceso al mercado laboral. 34 organizaciones reciben el Sello Bogotá Incluyente 2026 | Bogota.gov.co 26 Noviembre Clima en Bogotá Festival Salsa al Parque Trabajo sí hay Becas en Bogotá Alerta por calidad del aire Inicio Mi Ciudad Desarrollo Económico 2026 11 34 organizaciones recibieron el Sello Bogotá Incluyente 2026 por sus buenas prácticas laborales 34 organizaciones recibieron el Sello Bogotá Incluyente 2026 por sus buenas prácticas laborales 34 organizaciones…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 12,
+          "rol": null,
+          "coincidencias": [
+            "indicadores de gestión"
+          ],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-26T20:55:05+00:00"
+    },
     {
       "id": "aec32e4133ed72f6",
       "fuente": "paginas_oficiales",
@@ -385,7 +410,10 @@
           "modalidad": null
         }
       },
-      "fecha_detectada": "2026-11-20T12:54:30+00:00"
+      "fecha_detectada": "2026-11-20T12:54:30+00:00",
+      "tambien_en": [
+        "https://bogota.gov.co/tag/becas-y-convocatorias"
+      ]
     },
     {
       "id": "80d5eaba28d58ef6",
