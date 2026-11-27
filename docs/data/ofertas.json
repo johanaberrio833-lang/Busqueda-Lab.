@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T20:55:05+00:00",
+  "actualizado": "2026-11-27T20:40:24+00:00",
   "perfiles": [
     {
       "id": "contratacion-publica",
@@ -9,7 +9,7 @@
   "estado_fuentes": {
     "reliefweb": {
       "ok": false,
-      "fecha": "2026-11-26T20:55:01+00:00",
+      "fecha": "2026-11-27T20:40:19+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0,
@@ -18,21 +18,90 @@
     },
     "paginas_oficiales": {
       "ok": true,
-      "fecha": "2026-11-26T20:55:01+00:00",
-      "obtenidas": 21,
-      "relevantes": 2,
-      "nuevas": 1
+      "fecha": "2026-11-27T20:40:19+00:00",
+      "obtenidas": 22,
+      "relevantes": 3,
+      "nuevas": 3
     },
     "rss": {
       "ok": true,
-      "fecha": "2026-11-26T20:55:05+00:00",
+      "fecha": "2026-11-27T20:40:24+00:00",
       "obtenidas": 0,
       "relevantes": 0,
       "nuevas": 0
     }
   },
-  "total": 44,
+  "total": 47,
   "ofertas": [
+    {
+      "id": "33832d1926d57ce9",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Estudia gratis con el SENA",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/educacion/2026-11/convocatoria-sena-programas-tecnicos-y-tecnologicos-en-bogota-2027",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "La convocatoria está dirigida a las personas interesadas en iniciar o fortalecer su formación académica y acceder a nuevas oportunidades educativas.. Convocatoria SENA programas técnicos y tecnológicos en Bogotá 2027 | Bogota.gov.co 27 Noviembre Clima en Bogotá Festival Salsa al Parque Estudia gratis con el SENA Lotería de Bogotá Cursos Atenea para IA Inicio Mi Ciudad Educación 2026 11 SENA abre 60.000 cupos en programas técnicos y tecnológicos presenciales y a distancia en 2027: así puedes inscribirte SENA abre 60.000 cupos en programas técnicos y tecnológicos presenciales y a distancia en…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-27T20:40:24+00:00"
+    },
+    {
+      "id": "f4a0997fbe87f273",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Lotería de Bogotá",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/hacienda/2026-11/resultados-del-sorteo-loteria-de-bogota-jueves-26-de-noviembre-de-2026",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Los premios están distribuidos en un gran premio mayor, pagos por aproximaciones y más premios millonarios que te permitirán hacer realidad tus sueños.. Resultados del sorteo Lotería de Bogotá jueves 26 de noviembre de 2026 | Bogota.gov.co 27 Noviembre Clima en Bogotá Festival Salsa al Parque Estudia gratis con el SENA Lotería de Bogotá Cursos Atenea para IA Inicio Mi Ciudad Hacienda 2026 11 Consulta los resultados del sorteo de la Lotería de Bogotá: jueves 26 de noviembre de 2026 ¡Premio mayor y secos! Consulta los resultados del sorteo de la Lotería de Bogotá: jueves 26 de noviembre de 2026…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-27T20:40:24+00:00"
+    },
+    {
+      "id": "ec91aa1bd4c8e833",
+      "fuente": "paginas_oficiales",
+      "fuente_detalle": "Alcaldía de Bogotá – Ofertas de empleo",
+      "tipo": "convocatoria",
+      "titulo": "Cursos Atenea para IA",
+      "organizacion": "Alcaldía Mayor de Bogotá",
+      "ubicacion": "Bogotá, Colombia",
+      "url": "https://bogota.gov.co/mi-ciudad/educacion/2026-11/convocatoria-de-talento-capital-formacion-ia-2026-en-bogota",
+      "fecha_publicacion": null,
+      "fecha_cierre": null,
+      "resumen": "Se ofrecerán 500 cupos de formación sin costo, en modalidad virtual, con énfasis en inteligencia artificial aplicada al sector servicios.. Convocatoria de Talento Capital Formación IA 2026 en Bogotá | Bogota.gov.co 27 Noviembre Clima en Bogotá Festival Salsa al Parque Estudia gratis con el SENA Lotería de Bogotá Cursos Atenea para IA Inicio Mi Ciudad Educación 2026 11 Nueva convocatoria de Talento Capital Formación: oportunidades para aprender sobre inteligencia artificial en Bogotá Nueva convocatoria de Talento Capital Formación: oportunidades para aprender sobre inteligencia artificial en…",
+      "afinidad": {
+        "contratacion-publica": {
+          "puntaje": 8,
+          "rol": null,
+          "coincidencias": [],
+          "penalizaciones": [],
+          "modalidad": null
+        }
+      },
+      "fecha_detectada": "2026-11-27T20:40:24+00:00"
+    },
     {
       "id": "55689431137b66ba",
       "fuente": "paginas_oficiales",
